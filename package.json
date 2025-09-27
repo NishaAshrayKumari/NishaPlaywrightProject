@@ -1,0 +1,25 @@
+{
+  "name": "nishaplaywrightproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishaAshrayKumari/NishaPlaywrightProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NishaAshrayKumari/NishaPlaywrightProject/issues"
+  },
+  "homepage": "https://github.com/NishaAshrayKumari/NishaPlaywrightProject#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2",
+    "dotenv": "^17.2.2",
+    "typescript": "^5.9.2"
+  }
+}

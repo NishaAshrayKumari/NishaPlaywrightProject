@@ -1,0 +1,10 @@
+export const locatorsData = {
+  signupLogin: '[href *="login"]',
+  signupName: '[data-qa="signup-name"]',
+  signupEmail: '[data-qa="signup-email"]',
+  signupButton: '[data-qa="signup-button"]',
+
+  loginEmail: '[data-qa="login-email"]',
+  loginPwd: '[data-qa="login-password"]',
+  loginButton: '[data-qa="login-button"]'
+};
